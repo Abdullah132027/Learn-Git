@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <Nav />
+      <h1>I alrady fixed the bug</h1>
     </>
   )
 }
